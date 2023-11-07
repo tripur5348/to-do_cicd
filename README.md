@@ -1,2 +1,19 @@
-# to-do_cicd
-This repo is for django to-do app deployment as a Devops Engineer via Jenkins
+# node-todo-cicd
+
+Run these commands:
+
+
+`sudo apt install nodejs`
+
+
+`sudo apt install npm`
+
+
+`npm install`
+
+`node app.js`
+
+or Run by docker compose
+
+test
+
